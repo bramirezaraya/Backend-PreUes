@@ -1,7 +1,5 @@
 # Backend PreUesApp
 
-## Luis Romero - Bryan Ramírez
-
 Para poder iniciar el backend, primero se ha de contar con un IDE que permita trabajar con Node.js, el cual también debe ser instalado. Luego se ha de clonar este repositorio y finalmente instalar MySQL Workbench en su versión 8.0.30 o superior.
 
 Una vez clonado el repositorio, abrirlo con el IDE de su preferencia y abrir un terminal en el cual se ha de escribir el siguiente comando para instalar las dependencias del proyecto (fijarse que la ruta del terminal corresponda a la carpeta donde se guardó el repositorio clonado).
